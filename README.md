@@ -1,16 +1,5 @@
 # magic8
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 当你点击时会切换图片
+![image](https://github.com/282207134/magic8/assets/83965106/ae619aff-e996-4680-89a6-09d6f25aeb68)
+![image](https://github.com/282207134/magic8/assets/83965106/27afbf0c-8384-4eb2-9831-1d33fa95352e)
+![image](https://github.com/282207134/magic8/assets/83965106/78b89f7b-1f7c-40fd-abed-cc67e70bcda1)
